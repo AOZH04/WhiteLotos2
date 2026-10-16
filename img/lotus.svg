@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 64" role="img" aria-label="Белый Лотос">
+  <g fill="#ffffff" stroke="#b23a2e" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Задний ряд лепестков (для объёма) -->
+    <g opacity=".85">
+      <path d="M46 58 C 39 47 39 32 46 20 C 53 32 53 47 46 58 Z" transform="rotate(-48 46 58)"/>
+      <path d="M46 58 C 39 47 39 32 46 20 C 53 32 53 47 46 58 Z" transform="rotate(-17 46 58)"/>
+      <path d="M46 58 C 39 47 39 32 46 20 C 53 32 53 47 46 58 Z" transform="rotate(17 46 58)"/>
+      <path d="M46 58 C 39 47 39 32 46 20 C 53 32 53 47 46 58 Z" transform="rotate(48 46 58)"/>
+    </g>
+    <!-- Передний ряд: крайние, боковые, центральный лепестки -->
+    <path d="M46 58 C 37 46 37 30 46 18 C 55 30 55 46 46 58 Z" transform="rotate(-66 46 58)"/>
+    <path d="M46 58 C 37 46 37 30 46 18 C 55 30 55 46 46 58 Z" transform="rotate(66 46 58)"/>
+    <path d="M46 58 C 36 42 36 20 46 4 C 56 20 56 42 46 58 Z" transform="rotate(-33 46 58)"/>
+    <path d="M46 58 C 36 42 36 20 46 4 C 56 20 56 42 46 58 Z" transform="rotate(33 46 58)"/>
+    <path d="M46 58 C 36 42 36 20 46 4 C 56 20 56 42 46 58 Z"/>
+  </g>
+</svg>
